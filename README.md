@@ -1,4 +1,4 @@
-sico
+Guía 8 Semanas
 ====
 
-Sistema de Información de Cobertura - Interventoría Buen Comienzo
+Versión web
